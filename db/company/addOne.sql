@@ -1,0 +1,6 @@
+INSERT INTO COMPANY (
+    COMPANY_NAME
+) 
+VALUES (
+    $1
+);
